@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pbtrad/Musos-Crypto-Tracker/static/css/main.26d9bf4f.chunk.css",
-    "main.js": "/pbtrad/Musos-Crypto-Tracker/static/js/main.14914dff.chunk.js",
-    "main.js.map": "/pbtrad/Musos-Crypto-Tracker/static/js/main.14914dff.chunk.js.map",
-    "runtime-main.js": "/pbtrad/Musos-Crypto-Tracker/static/js/runtime-main.960f51f8.js",
-    "runtime-main.js.map": "/pbtrad/Musos-Crypto-Tracker/static/js/runtime-main.960f51f8.js.map",
-    "static/js/2.dd800f13.chunk.js": "/pbtrad/Musos-Crypto-Tracker/static/js/2.dd800f13.chunk.js",
-    "static/js/2.dd800f13.chunk.js.map": "/pbtrad/Musos-Crypto-Tracker/static/js/2.dd800f13.chunk.js.map",
-    "static/js/3.4a9c4940.chunk.js": "/pbtrad/Musos-Crypto-Tracker/static/js/3.4a9c4940.chunk.js",
-    "static/js/3.4a9c4940.chunk.js.map": "/pbtrad/Musos-Crypto-Tracker/static/js/3.4a9c4940.chunk.js.map",
-    "index.html": "/pbtrad/Musos-Crypto-Tracker/index.html",
-    "static/css/main.26d9bf4f.chunk.css.map": "/pbtrad/Musos-Crypto-Tracker/static/css/main.26d9bf4f.chunk.css.map",
-    "static/js/2.dd800f13.chunk.js.LICENSE.txt": "/pbtrad/Musos-Crypto-Tracker/static/js/2.dd800f13.chunk.js.LICENSE.txt"
+    "main.css": "/musos-crypto-tracker/static/css/main.26d9bf4f.chunk.css",
+    "main.js": "/musos-crypto-tracker/static/js/main.14914dff.chunk.js",
+    "main.js.map": "/musos-crypto-tracker/static/js/main.14914dff.chunk.js.map",
+    "runtime-main.js": "/musos-crypto-tracker/static/js/runtime-main.2a7ee4df.js",
+    "runtime-main.js.map": "/musos-crypto-tracker/static/js/runtime-main.2a7ee4df.js.map",
+    "static/js/2.dd800f13.chunk.js": "/musos-crypto-tracker/static/js/2.dd800f13.chunk.js",
+    "static/js/2.dd800f13.chunk.js.map": "/musos-crypto-tracker/static/js/2.dd800f13.chunk.js.map",
+    "static/js/3.4a9c4940.chunk.js": "/musos-crypto-tracker/static/js/3.4a9c4940.chunk.js",
+    "static/js/3.4a9c4940.chunk.js.map": "/musos-crypto-tracker/static/js/3.4a9c4940.chunk.js.map",
+    "index.html": "/musos-crypto-tracker/index.html",
+    "static/css/main.26d9bf4f.chunk.css.map": "/musos-crypto-tracker/static/css/main.26d9bf4f.chunk.css.map",
+    "static/js/2.dd800f13.chunk.js.LICENSE.txt": "/musos-crypto-tracker/static/js/2.dd800f13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.960f51f8.js",
+    "static/js/runtime-main.2a7ee4df.js",
     "static/js/2.dd800f13.chunk.js",
     "static/css/main.26d9bf4f.chunk.css",
     "static/js/main.14914dff.chunk.js"
